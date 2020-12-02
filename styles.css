@@ -1,0 +1,89 @@
+body {
+    
+    line-height: 1,6;
+    margin: 0px;
+    width: 100%;
+    font-family: 'Texturina', serif;
+    background-color: beige;
+    text-align: center;
+    
+    
+}
+
+#header {
+    
+    display: inline-block;
+    width: 100%;
+    background-color: dimgrey;
+    border: thin solid black;
+}
+
+#header h1{
+    
+    display: inline-block;
+    text-align: center;
+    font-size: 60px;
+}
+
+#input {
+    
+    display: inline-block;
+    width: 70%;
+    
+}
+
+#titleinput {
+    
+    width: 300px;
+    color: grey;
+}
+
+#contentinput {
+    
+   
+    width: 500px;
+    height: 250px;
+    
+    
+}
+
+#submit button{
+    
+    text-align: center;
+    display: inline-block;
+    width: 120px;
+    background-color: lightgray;
+    border: thin solid black;
+    border-radius: 10px;
+    
+}
+
+#posts {
+    
+    display: inline-block; 
+    text-align: center;
+    
+}
+
+.post1 {
+    
+    margin: 10px 0px;
+    width: 500px;
+    border: thin solid red;
+    background-color: purple;
+}
+
+.post2 {
+    margin: 10px 0px;
+    width: 500px;
+    border: thin solid red;
+    background-color: yellow;
+}
+
+.post3 {
+    
+    margin: 20px 0px;
+    width: 500px;
+    border: thin solid blue;
+    background-color: purple;
+}
